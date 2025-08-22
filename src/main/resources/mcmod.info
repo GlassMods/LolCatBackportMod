@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lcbp",
+  "name": "Lol Cat Backport",
+  "description": "A mod that backports LolCat to 1.8.9",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [""],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

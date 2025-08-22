@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.7.11",
+  "package": "lmao.glassmods.lolcatbackport.mixins",
+  "refmap": "mixins.lcbp.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinLanguageManager"
+  ]
+}
